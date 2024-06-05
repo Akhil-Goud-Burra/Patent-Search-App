@@ -13,3 +13,9 @@ In this codelab, I will work towards making the process of searching for patents
 
 
 ![ice_screenshot_20240605-153143](https://github.com/Akhil-Goud-Burra/Patent-Search-App/assets/124227421/421364d7-50b6-433c-9f0a-9ad36d8567d2)
+
+
+# Overview
+Across different industries, Patent research is a critical tool for understanding the competitive landscape, identifying potential licensing or acquisition opportunities, and avoiding infringing on existing patents.
+
+Patent research is vast and complex. Sifting through countless technical abstracts to find relevant innovations is a daunting task. Traditional keyword-based searches are often inaccurate and time-consuming. Abstracts are lengthy and technical, making it difficult to grasp the core idea quickly. This can lead to researchers missing key patents or wasting time on irrelevant results.
